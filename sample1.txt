@@ -3,3 +3,5 @@ removing the first line
 =======
 adding a new lines to the file 
 >>>>>>> 29fa53fa5bb5a34b56c0e8708de553c64a3f848e
+
+Implementing the Branching stratgies
