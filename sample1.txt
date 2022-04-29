@@ -6,4 +6,7 @@ adding a new lines to the file
 
 Implementing the Branching stratgieis
 
-Implementing the merge activity in master branch 
+Implementing the merge activity in master branch
+new lines
+
+exploring the github options 
