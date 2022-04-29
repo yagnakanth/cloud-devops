@@ -8,5 +8,8 @@ Implementing the Branching stratgieis
 
 Implementing the merge activity in master branch
 new lines
+<<<<<<< HEAD
 
 exploring the github options 
+=======
+>>>>>>> 7622e6f3e2be6b60a5aac63130b41997659be22c
